@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}What is RISC-V}{1}
+\contentsline {subsection}{\numberline {1.1}Registers}{1}
+\contentsline {subsection}{\numberline {1.2}Instructions}{3}
+\contentsline {section}{\numberline {2}RISC-V Instructions \& Programs}{3}
+\contentsline {subsection}{\numberline {2.1}Arithmetic Instructions \& Sign Extension}{3}
+\contentsline {subsection}{\numberline {2.2}Memory Instructions}{3}
+\contentsline {subsection}{\numberline {2.3}The Program Counter}{4}
+\contentsline {subsection}{\numberline {2.4}Control Flow Instructions}{4}
+\contentsline {subsection}{\numberline {2.5}Signed vs. Unsigned}{4}
+\contentsline {subsection}{\numberline {2.6}Jump Instructions and Function Calls}{5}
+\contentsline {subsection}{\numberline {2.7}Calling Convention}{6}
+\contentsline {subsection}{\numberline {2.8}Pseudoinstructions}{7}
+\contentsline {section}{\numberline {3}Converting RISC-V to binary}{7}
+\contentsline {subsection}{\numberline {3.1}R-Type}{7}
+\contentsline {subsection}{\numberline {3.2}I-Type}{8}
+\contentsline {subsection}{\numberline {3.3}J-Type}{8}

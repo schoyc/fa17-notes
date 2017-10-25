@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Why we want caches}{2}
+\contentsline {subsection}{\numberline {1.1}Locality \& Partitioning memory for caching}{2}
+\contentsline {section}{\numberline {2}Cache Specifications \& Organization}{3}
+\contentsline {section}{\numberline {3}The Caching Scheme}{4}
+\contentsline {subsection}{\numberline {3.1}Cache rhymes with Hash (Table)}{5}
+\contentsline {subsection}{\numberline {3.2}Collisions \& Associativity}{6}
+\contentsline {section}{\numberline {4}An example program \& Types of Misses}{6}
+\contentsline {subsection}{\numberline {4.1}Compulsory Misses}{6}
+\contentsline {subsection}{\numberline {4.2}Conflict Misses}{9}
